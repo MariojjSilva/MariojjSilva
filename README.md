@@ -4,6 +4,13 @@ Bonjour! Je suis Mario Silva
 - 🌱 I’m currently learning React Js
 - 🤔 I’m looking a stage - 6 weeks
 
+
+<div>
+
+##
+
+##### 🤖 Mon activité dans le GitHub
+
 <div style="display: inline_block;">
   <a href="https://github.com/MariojjSilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariojjSilva&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -36,7 +43,8 @@ Bonjour! Je suis Mario Silva
   <img align="center" alt="Mario-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <br />
  <br />
- <kbd align="center">
+  </kbd>
+<kbd align="center">
 <kbd>Intéressé par:</kbd> 
      <br />
      <br />
